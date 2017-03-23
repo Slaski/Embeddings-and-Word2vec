@@ -6,7 +6,7 @@ This is a project on word embeddings and word2vec from the Deep Learning Nanodeg
 Embeddings improves the ability of networks to learn from data with a huge numbers of classes by representing the data with lower dimensional vectors.
 Word embeddings allow the network to learn semantic relationships between words.
 
-## Instalation Requirements
+## Installation Requirements
 
 The project requires the following frameworks and libraries:
 
